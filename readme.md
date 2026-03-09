@@ -1,1 +1,1 @@
-Interesuję się technologiami komputerowymi, analizą danych, bazami danych i algorytmiką. Stworzyłem w pythonie kilka projektów sztucznej inteligencji z wykorzystaniem bibliotek pycaret, streamlit pandas i fastapi.
+Mam na imię Ryszard. Interesuję się technologiami komputerowymi, analizą danych, bazami danych i algorytmiką. Stworzyłem w pythonie kilka projektów sztucznej inteligencji z wykorzystaniem bibliotek pycaret, streamlit pandas i fastapi.
