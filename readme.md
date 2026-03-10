@@ -1,2 +1,6 @@
-[Strona Główna](index) | [O mnie](o-mnie) | [Projekty](projekty)
+|  [Strona Główna](index) 
+
+|  [O mnie](o-mnie)
+
+|  [Projekty](projekty)
 
