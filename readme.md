@@ -2,5 +2,5 @@
 
 |  [O mnie](o-mnie)
 
-|  [Projekty](projekty)
+|  [Projekty](projekty-python)
 
