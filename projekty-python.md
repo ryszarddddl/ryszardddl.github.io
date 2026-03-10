@@ -1,8 +1,4 @@
-|  [Strona Główna](index) 
-
-|  [O mnie](o-mnie)
-
-|  [Projekty](projekty-python)
+ [Strona Główna](index) |  [O mnie](o-mnie)|  [Projekty](projekty-python)| 
 
 Poniżej projekty aplikacji sztucznej inteligencji napisane w języku python z użyciem bibliotek pycaret
 
